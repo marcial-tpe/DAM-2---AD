@@ -1,0 +1,609 @@
+<?xml version='1.0' encoding='utf-8'?>
+<poblacion anio="2025" unidad="personas" fuente="INE - Censo anual de población 2021-2025">
+  <comunidad codigo="01">
+    <nombre>Andalucía</nombre>
+    <poblacionTotal>8676713</poblacionTotal>
+    <sexo>
+      <hombres>4269107</hombres>
+      <mujeres>4407606</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="04">
+        <nombre>Almería</nombre>
+        <poblacionTotal>770554</poblacionTotal>
+        <sexo>
+          <hombres>393351</hombres>
+          <mujeres>377203</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="11">
+        <nombre>Cádiz</nombre>
+        <poblacionTotal>1261420</poblacionTotal>
+        <sexo>
+          <hombres>620608</hombres>
+          <mujeres>640812</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="14">
+        <nombre>Córdoba</nombre>
+        <poblacionTotal>773163</poblacionTotal>
+        <sexo>
+          <hombres>377929</hombres>
+          <mujeres>395234</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="18">
+        <nombre>Granada</nombre>
+        <poblacionTotal>945797</poblacionTotal>
+        <sexo>
+          <hombres>464948</hombres>
+          <mujeres>480849</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="21">
+        <nombre>Huelva</nombre>
+        <poblacionTotal>538789</poblacionTotal>
+        <sexo>
+          <hombres>267376</hombres>
+          <mujeres>271413</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="23">
+        <nombre>Jaén</nombre>
+        <poblacionTotal>618143</poblacionTotal>
+        <sexo>
+          <hombres>305962</hombres>
+          <mujeres>312181</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="29">
+        <nombre>Málaga</nombre>
+        <poblacionTotal>1791183</poblacionTotal>
+        <sexo>
+          <hombres>874712</hombres>
+          <mujeres>916471</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="41">
+        <nombre>Sevilla</nombre>
+        <poblacionTotal>1977664</poblacionTotal>
+        <sexo>
+          <hombres>964221</hombres>
+          <mujeres>1013443</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="02">
+    <nombre>Aragón</nombre>
+    <poblacionTotal>1364621</poblacionTotal>
+    <sexo>
+      <hombres>676787</hombres>
+      <mujeres>687834</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="22">
+        <nombre>Huesca</nombre>
+        <poblacionTotal>230087</poblacionTotal>
+        <sexo>
+          <hombres>117167</hombres>
+          <mujeres>112920</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="44">
+        <nombre>Teruel</nombre>
+        <poblacionTotal>136091</poblacionTotal>
+        <sexo>
+          <hombres>69356</hombres>
+          <mujeres>66735</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="50">
+        <nombre>Zaragoza</nombre>
+        <poblacionTotal>998443</poblacionTotal>
+        <sexo>
+          <hombres>490264</hombres>
+          <mujeres>508179</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="03">
+    <nombre>Asturias, Principado de</nombre>
+    <poblacionTotal>1015128</poblacionTotal>
+    <sexo>
+      <hombres>484511</hombres>
+      <mujeres>530617</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="33">
+        <nombre>Asturias</nombre>
+        <poblacionTotal>1015128</poblacionTotal>
+        <sexo>
+          <hombres>484511</hombres>
+          <mujeres>530617</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="04">
+    <nombre>Balears, Illes</nombre>
+    <poblacionTotal>1249844</poblacionTotal>
+    <sexo>
+      <hombres>622673</hombres>
+      <mujeres>627171</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="07">
+        <nombre>Balears, Illes</nombre>
+        <poblacionTotal>1249844</poblacionTotal>
+        <sexo>
+          <hombres>622673</hombres>
+          <mujeres>627171</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="05">
+    <nombre>Canarias</nombre>
+    <poblacionTotal>2258866</poblacionTotal>
+    <sexo>
+      <hombres>1114821</hombres>
+      <mujeres>1144045</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="35">
+        <nombre>Palmas, Las</nombre>
+        <poblacionTotal>1171547</poblacionTotal>
+        <sexo>
+          <hombres>581743</hombres>
+          <mujeres>589804</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="38">
+        <nombre>Santa Cruz de Tenerife</nombre>
+        <poblacionTotal>1087319</poblacionTotal>
+        <sexo>
+          <hombres>533078</hombres>
+          <mujeres>554241</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="06">
+    <nombre>Cantabria</nombre>
+    <poblacionTotal>593623</poblacionTotal>
+    <sexo>
+      <hombres>287460</hombres>
+      <mujeres>306163</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="39">
+        <nombre>Cantabria</nombre>
+        <poblacionTotal>593623</poblacionTotal>
+        <sexo>
+          <hombres>287460</hombres>
+          <mujeres>306163</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="07">
+    <nombre>Castilla y León</nombre>
+    <poblacionTotal>2401221</poblacionTotal>
+    <sexo>
+      <hombres>1182898</hombres>
+      <mujeres>1218323</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="05">
+        <nombre>Ávila</nombre>
+        <poblacionTotal>160738</poblacionTotal>
+        <sexo>
+          <hombres>80778</hombres>
+          <mujeres>79960</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="09">
+        <nombre>Burgos</nombre>
+        <poblacionTotal>362663</poblacionTotal>
+        <sexo>
+          <hombres>181482</hombres>
+          <mujeres>181181</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="24">
+        <nombre>León</nombre>
+        <poblacionTotal>448030</poblacionTotal>
+        <sexo>
+          <hombres>218106</hombres>
+          <mujeres>229924</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="34">
+        <nombre>Palencia</nombre>
+        <poblacionTotal>158702</poblacionTotal>
+        <sexo>
+          <hombres>78800</hombres>
+          <mujeres>79902</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="37">
+        <nombre>Salamanca</nombre>
+        <poblacionTotal>328446</poblacionTotal>
+        <sexo>
+          <hombres>159116</hombres>
+          <mujeres>169330</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="40">
+        <nombre>Segovia</nombre>
+        <poblacionTotal>158251</poblacionTotal>
+        <sexo>
+          <hombres>79417</hombres>
+          <mujeres>78834</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="42">
+        <nombre>Soria</nombre>
+        <poblacionTotal>90183</poblacionTotal>
+        <sexo>
+          <hombres>45838</hombres>
+          <mujeres>44345</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="47">
+        <nombre>Valladolid</nombre>
+        <poblacionTotal>528644</poblacionTotal>
+        <sexo>
+          <hombres>257383</hombres>
+          <mujeres>271261</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="49">
+        <nombre>Zamora</nombre>
+        <poblacionTotal>165564</poblacionTotal>
+        <sexo>
+          <hombres>81978</hombres>
+          <mujeres>83586</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="08">
+    <nombre>Castilla - La Mancha</nombre>
+    <poblacionTotal>2126378</poblacionTotal>
+    <sexo>
+      <hombres>1067500</hombres>
+      <mujeres>1058878</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="02">
+        <nombre>Albacete</nombre>
+        <poblacionTotal>390751</poblacionTotal>
+        <sexo>
+          <hombres>196118</hombres>
+          <mujeres>194633</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="13">
+        <nombre>Ciudad Real</nombre>
+        <poblacionTotal>494848</poblacionTotal>
+        <sexo>
+          <hombres>245530</hombres>
+          <mujeres>249318</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="16">
+        <nombre>Cuenca</nombre>
+        <poblacionTotal>199859</poblacionTotal>
+        <sexo>
+          <hombres>100975</hombres>
+          <mujeres>98884</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="19">
+        <nombre>Guadalajara</nombre>
+        <poblacionTotal>285839</poblacionTotal>
+        <sexo>
+          <hombres>145284</hombres>
+          <mujeres>140555</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="45">
+        <nombre>Toledo</nombre>
+        <poblacionTotal>755081</poblacionTotal>
+        <sexo>
+          <hombres>379593</hombres>
+          <mujeres>375488</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="09">
+    <nombre>Cataluña</nombre>
+    <poblacionTotal>8124126</poblacionTotal>
+    <sexo>
+      <hombres>4006834</hombres>
+      <mujeres>4117292</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="08">
+        <nombre>Barcelona</nombre>
+        <poblacionTotal>5959941</poblacionTotal>
+        <sexo>
+          <hombres>2916664</hombres>
+          <mujeres>3043277</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="17">
+        <nombre>Girona</nombre>
+        <poblacionTotal>830429</poblacionTotal>
+        <sexo>
+          <hombres>416380</hombres>
+          <mujeres>414049</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="25">
+        <nombre>Lleida</nombre>
+        <poblacionTotal>458226</poblacionTotal>
+        <sexo>
+          <hombres>235446</hombres>
+          <mujeres>222780</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="43">
+        <nombre>Tarragona</nombre>
+        <poblacionTotal>875530</poblacionTotal>
+        <sexo>
+          <hombres>438344</hombres>
+          <mujeres>437186</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="10">
+    <nombre>Comunitat Valenciana</nombre>
+    <poblacionTotal>5425182</poblacionTotal>
+    <sexo>
+      <hombres>2670557</hombres>
+      <mujeres>2754625</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="03">
+        <nombre>Alicante/Alacant</nombre>
+        <poblacionTotal>2033566</poblacionTotal>
+        <sexo>
+          <hombres>1005674</hombres>
+          <mujeres>1027892</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="12">
+        <nombre>Castellón/Castelló</nombre>
+        <poblacionTotal>627620</poblacionTotal>
+        <sexo>
+          <hombres>312091</hombres>
+          <mujeres>315529</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="46">
+        <nombre>Valencia/València</nombre>
+        <poblacionTotal>2763996</poblacionTotal>
+        <sexo>
+          <hombres>1352792</hombres>
+          <mujeres>1411204</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="11">
+    <nombre>Extremadura</nombre>
+    <poblacionTotal>1053345</poblacionTotal>
+    <sexo>
+      <hombres>520432</hombres>
+      <mujeres>532913</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="06">
+        <nombre>Badajoz</nombre>
+        <poblacionTotal>665155</poblacionTotal>
+        <sexo>
+          <hombres>328176</hombres>
+          <mujeres>336979</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="10">
+        <nombre>Cáceres</nombre>
+        <poblacionTotal>388190</poblacionTotal>
+        <sexo>
+          <hombres>192256</hombres>
+          <mujeres>195934</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="12">
+    <nombre>Galicia</nombre>
+    <poblacionTotal>2714741</poblacionTotal>
+    <sexo>
+      <hombres>1306827</hombres>
+      <mujeres>1407914</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="15">
+        <nombre>Coruña, A</nombre>
+        <poblacionTotal>1135623</poblacionTotal>
+        <sexo>
+          <hombres>544635</hombres>
+          <mujeres>590988</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="27">
+        <nombre>Lugo</nombre>
+        <poblacionTotal>326022</poblacionTotal>
+        <sexo>
+          <hombres>158220</hombres>
+          <mujeres>167802</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="32">
+        <nombre>Ourense</nombre>
+        <poblacionTotal>305278</poblacionTotal>
+        <sexo>
+          <hombres>146646</hombres>
+          <mujeres>158632</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="36">
+        <nombre>Pontevedra</nombre>
+        <poblacionTotal>947818</poblacionTotal>
+        <sexo>
+          <hombres>457326</hombres>
+          <mujeres>490492</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="13">
+    <nombre>Madrid, Comunidad de</nombre>
+    <poblacionTotal>7113886</poblacionTotal>
+    <sexo>
+      <hombres>3407410</hombres>
+      <mujeres>3706476</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="28">
+        <nombre>Madrid</nombre>
+        <poblacionTotal>7113886</poblacionTotal>
+        <sexo>
+          <hombres>3407410</hombres>
+          <mujeres>3706476</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="14">
+    <nombre>Murcia, Región de</nombre>
+    <poblacionTotal>1586989</poblacionTotal>
+    <sexo>
+      <hombres>794905</hombres>
+      <mujeres>792084</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="30">
+        <nombre>Murcia</nombre>
+        <poblacionTotal>1586989</poblacionTotal>
+        <sexo>
+          <hombres>794905</hombres>
+          <mujeres>792084</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="15">
+    <nombre>Navarra, Comunidad Foral de</nombre>
+    <poblacionTotal>683854</poblacionTotal>
+    <sexo>
+      <hombres>338835</hombres>
+      <mujeres>345019</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="31">
+        <nombre>Navarra</nombre>
+        <poblacionTotal>683854</poblacionTotal>
+        <sexo>
+          <hombres>338835</hombres>
+          <mujeres>345019</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="16">
+    <nombre>País Vasco</nombre>
+    <poblacionTotal>2242343</poblacionTotal>
+    <sexo>
+      <hombres>1091718</hombres>
+      <mujeres>1150625</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="01">
+        <nombre>Araba/Álava</nombre>
+        <poblacionTotal>341961</poblacionTotal>
+        <sexo>
+          <hombres>168413</hombres>
+          <mujeres>173548</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="48">
+        <nombre>Bizkaia</nombre>
+        <poblacionTotal>1167233</poblacionTotal>
+        <sexo>
+          <hombres>564945</hombres>
+          <mujeres>602288</mujeres>
+        </sexo>
+      </provincia>
+      <provincia codigo="20">
+        <nombre>Gipuzkoa</nombre>
+        <poblacionTotal>733149</poblacionTotal>
+        <sexo>
+          <hombres>358360</hombres>
+          <mujeres>374789</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="17">
+    <nombre>Rioja, La</nombre>
+    <poblacionTotal>326803</poblacionTotal>
+    <sexo>
+      <hombres>161177</hombres>
+      <mujeres>165626</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="26">
+        <nombre>Rioja, La</nombre>
+        <poblacionTotal>326803</poblacionTotal>
+        <sexo>
+          <hombres>161177</hombres>
+          <mujeres>165626</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="18">
+    <nombre>Ceuta</nombre>
+    <poblacionTotal>83567</poblacionTotal>
+    <sexo>
+      <hombres>42147</hombres>
+      <mujeres>41420</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="51">
+        <nombre>Ceuta</nombre>
+        <poblacionTotal>83567</poblacionTotal>
+        <sexo>
+          <hombres>42147</hombres>
+          <mujeres>41420</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+  <comunidad codigo="19">
+    <nombre>Melilla</nombre>
+    <poblacionTotal>87067</poblacionTotal>
+    <sexo>
+      <hombres>43770</hombres>
+      <mujeres>43297</mujeres>
+    </sexo>
+    <provincias>
+      <provincia codigo="52">
+        <nombre>Melilla</nombre>
+        <poblacionTotal>87067</poblacionTotal>
+        <sexo>
+          <hombres>43770</hombres>
+          <mujeres>43297</mujeres>
+        </sexo>
+      </provincia>
+    </provincias>
+  </comunidad>
+</poblacion>
